@@ -1,1 +1,4 @@
 .env
+
+# Ignore data files
+data/
